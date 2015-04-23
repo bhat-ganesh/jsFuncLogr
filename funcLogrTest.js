@@ -27,3 +27,5 @@ if (!a && r.function() != 'none' && !e) {
 
                             callback: function (back, recorder) {
                             }
+function abc(a,b,c) { //test
+}
