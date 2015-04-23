@@ -1,4 +1,6 @@
 function f1() {
+        function x () {
+        }
 }
     function f2 (){
     }
