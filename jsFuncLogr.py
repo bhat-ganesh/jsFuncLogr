@@ -53,7 +53,7 @@ if matchCount:
     print "\n" + inFile + " processed successfully"
     print "Output file is " + outFile
     print "\nTo compare files before use run:"
-    print "diff " + outFile + " " + inFile
+    print "vimdiff " + outFile + " " + inFile
     print "\nTo use changed file run:"
     print "mv " + outFile + " " + inFile + "\n"
 print "<<<<<"
